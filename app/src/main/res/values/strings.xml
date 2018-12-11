@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ViewPagerSample</string>
+    <string name="left">←</string>
+    <string name="right">→</string>
+    <string name="a">あああああ</string>
+    <string name="i">いいいいい</string>
+    <string name="u">ううううう</string>
+    <string name="star">★</string>
+</resources>
